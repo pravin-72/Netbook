@@ -31,7 +31,7 @@ Experience the project live:
 
 2. Navigate to the project folder:  
    ```bash  
-   cd Netbook-Replicate-Design  
+   cd Netbook
    ```  
 
 3. Open the `index.html` file in your browser to view the webpage locally.  
